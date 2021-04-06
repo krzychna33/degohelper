@@ -1,3 +1,7 @@
-pillow
-imagehash
-numpy
+ImageHash==4.2.0
+numpy==1.20.2
+opencv-python==4.5.1.48
+Pillow==8.2.0
+PyWavelets==1.1.1
+scipy==1.6.2
+six==1.15.0
